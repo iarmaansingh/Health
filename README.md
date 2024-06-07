@@ -1,2 +1,2 @@
 # HealthSpot
-Your health Our priority 
+Your health Our priority.
